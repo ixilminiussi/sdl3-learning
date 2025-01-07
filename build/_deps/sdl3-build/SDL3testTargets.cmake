@@ -51,7 +51,7 @@ add_library(SDL3::SDL3_test STATIC IMPORTED)
 
 set_target_properties(SDL3::SDL3_test PROPERTIES
   COMPATIBLE_INTERFACE_STRING "SDL_VERSION"
-  INTERFACE_LINK_LIBRARIES "\$<LINK_ONLY:unwind>;SDL3::Headers"
+  INTERFACE_LINK_LIBRARIES "SDL3::Headers"
   INTERFACE_SDL_VERSION "SDL3"
 )
 
@@ -59,7 +59,28 @@ set_target_properties(SDL3::SDL3_test PROPERTIES
 set_property(TARGET SDL3::SDL3_test APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(SDL3::SDL3_test PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "C"
-  IMPORTED_LOCATION_DEBUG "/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-build/libSDL3_test.a"
+  IMPORTED_LOCATION_DEBUG "C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-build/Debug/SDL3_test.lib"
+  )
+
+# Import target "SDL3::SDL3_test" for configuration "Release"
+set_property(TARGET SDL3::SDL3_test APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
+set_target_properties(SDL3::SDL3_test PROPERTIES
+  IMPORTED_LINK_INTERFACE_LANGUAGES_RELEASE "C"
+  IMPORTED_LOCATION_RELEASE "C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-build/Release/SDL3_test.lib"
+  )
+
+# Import target "SDL3::SDL3_test" for configuration "MinSizeRel"
+set_property(TARGET SDL3::SDL3_test APPEND PROPERTY IMPORTED_CONFIGURATIONS MINSIZEREL)
+set_target_properties(SDL3::SDL3_test PROPERTIES
+  IMPORTED_LINK_INTERFACE_LANGUAGES_MINSIZEREL "C"
+  IMPORTED_LOCATION_MINSIZEREL "C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-build/MinSizeRel/SDL3_test.lib"
+  )
+
+# Import target "SDL3::SDL3_test" for configuration "RelWithDebInfo"
+set_property(TARGET SDL3::SDL3_test APPEND PROPERTY IMPORTED_CONFIGURATIONS RELWITHDEBINFO)
+set_target_properties(SDL3::SDL3_test PROPERTIES
+  IMPORTED_LINK_INTERFACE_LANGUAGES_RELWITHDEBINFO "C"
+  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-build/RelWithDebInfo/SDL3_test.lib"
   )
 
 # Make sure the targets which have been exported in some other

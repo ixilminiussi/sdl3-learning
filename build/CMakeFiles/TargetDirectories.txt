@@ -1,9 +1,8 @@
-/home/ixilminiussi/Desktop/learning/sdl3-learning/build/CMakeFiles/graphics-SDL3.dir
-/home/ixilminiussi/Desktop/learning/sdl3-learning/build/CMakeFiles/edit_cache.dir
-/home/ixilminiussi/Desktop/learning/sdl3-learning/build/CMakeFiles/rebuild_cache.dir
-/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/SDL3-shared.dir
-/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/SDL3_test.dir
-/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/SDL_uclibc.dir
-/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/uninstall.dir
-/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/edit_cache.dir
-/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/rebuild_cache.dir
+C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/CMakeFiles/graphics-SDL3.dir
+C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/SDL3-shared.dir
+C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/SDL3_test.dir
+C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/SDL_uclibc.dir
+C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/uninstall.dir
+C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/ALL_BUILD.dir

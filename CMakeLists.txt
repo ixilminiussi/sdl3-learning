@@ -24,6 +24,13 @@ endif()
 
 endif()
 file( GLOB graphics-with-SDL3_SOURCES *.cpp )
+
+if (WIN32)
+    file(COPY Content DESTINATION ${CMAKE_BINARY_DIR}/Debug)
+else (WIN32)
+    file(COPY Content DESTINATION ${CMAKE_BINARY_DIR})
+endif (WIN32)
+
 add_executable(${PROJECT_NAME} ${graphics-with-SDL3_SOURCES})
 target_include_directories(${PROJECT_NAME} PUBLIC ${SDL3_INCLUDE_DIRS})
 target_link_libraries(${PROJECT_NAME} SDL3::SDL3)
