@@ -1,0 +1,9 @@
+/home/ixilminiussi/Desktop/learning/sdl3-learning/build/CMakeFiles/graphics-SDL3.dir
+/home/ixilminiussi/Desktop/learning/sdl3-learning/build/CMakeFiles/edit_cache.dir
+/home/ixilminiussi/Desktop/learning/sdl3-learning/build/CMakeFiles/rebuild_cache.dir
+/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/SDL3-shared.dir
+/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/SDL3_test.dir
+/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/SDL_uclibc.dir
+/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/uninstall.dir
+/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/edit_cache.dir
+/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,21 @@
+# ninja log v6
+1920	1933	1736157069784236463	/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure	a70379fa78367f48
+1	14	1736157067864552358	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir	f50340365ebc5e5d
+1972	1990	1736157069840227250	/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate-complete	a4f50f7262c319cb
+1972	1990	1736157069840227250	/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-done	a4f50f7262c319cb
+14	1896	1736157069746242715	/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download	e1ab8c266b8dcea1
+1933	1948	1736157069799233995	/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-build	5422a40a3f3186f7
+1920	1933	1736157069784236463	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure	a70379fa78367f48
+1906	1920	1736157069771238602	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch	764a0729474d2297
+14	1896	1736157069746242715	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download	e1ab8c266b8dcea1
+1	14	1736157067864552358	/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir	f50340365ebc5e5d
+1948	1962	1736157069812231856	/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install	9607350fcfdd7490
+1933	1948	1736157069799233995	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-build	5422a40a3f3186f7
+1962	1972	1736157069822230211	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-test	8b22f56881b0a5a2
+1962	1972	1736157069822230211	/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-test	8b22f56881b0a5a2
+1972	1990	1736157069840227250	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-done	a4f50f7262c319cb
+1948	1962	1736157069812231856	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install	9607350fcfdd7490
+1906	1920	1736157069771238602	/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch	764a0729474d2297
+1896	1906	1736157069757240906	/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update	7bfc12cd4b1f35e1
+1896	1906	1736157069757240906	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update	7bfc12cd4b1f35e1
+1972	1990	1736157069840227250	CMakeFiles/sdl3-populate-complete	a4f50f7262c319cb
