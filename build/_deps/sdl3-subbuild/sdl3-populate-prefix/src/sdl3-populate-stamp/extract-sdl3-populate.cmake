@@ -5,8 +5,8 @@ cmake_minimum_required(VERSION 3.5)
 
 # Make file names absolute:
 #
-get_filename_component(filename "/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/preview-3.1.6.tar.gz" ABSOLUTE)
-get_filename_component(directory "/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-src" ABSOLUTE)
+get_filename_component(filename "C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/preview-3.1.6.zip" ABSOLUTE)
+get_filename_component(directory "C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-src" ABSOLUTE)
 
 message(VERBOSE "extracting...
      src='${filename}'

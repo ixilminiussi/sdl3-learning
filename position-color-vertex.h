@@ -9,4 +9,4 @@ typedef struct PositionColorVertex
     Uint8 r, g, b, a;
 } PositionColorVertex;
 
-#endif // GRAPHICS_SDL3_POSITIONCOLORVERTEX
+#endif

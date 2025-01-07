@@ -1,3 +1,3 @@
-/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate.dir
-/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/CMakeFiles/edit_cache.dir
-/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/CMakeFiles/rebuild_cache.dir
+C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate.dir
+C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-subbuild/CMakeFiles/ZERO_CHECK.dir

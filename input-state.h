@@ -78,4 +78,4 @@ struct InputState
     bool down{false};
 };
 
-#endif // INPUTSTATE
+#endif

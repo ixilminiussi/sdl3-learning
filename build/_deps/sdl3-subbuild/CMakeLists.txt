@@ -1,7 +1,7 @@
 # Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
 # file Copyright.txt or https://cmake.org/licensing for details.
 
-cmake_minimum_required(VERSION 3.30.5)
+cmake_minimum_required(VERSION 3.30.0)
 
 # Reject any attempt to use a toolchain file. We must not use one because
 # we could be downloading it here. If the CMAKE_TOOLCHAIN_FILE environment
@@ -19,9 +19,9 @@ project(sdl3-populate NONE)
 
 include(ExternalProject)
 ExternalProject_Add(sdl3-populate
-                     "UPDATE_DISCONNECTED" "False" "DOWNLOAD_EXTRACT_TIMESTAMP" "FALSE" "EXTERNALPROJECT_INTERNAL_ARGUMENT_SEPARATOR" "URL" "https://github.com/libsdl-org/SDL/archive/refs/tags/preview-3.1.6.tar.gz"
-                    SOURCE_DIR          "/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-src"
-                    BINARY_DIR          "/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-build"
+                     "UPDATE_DISCONNECTED" "False" "DOWNLOAD_EXTRACT_TIMESTAMP" "FALSE" "EXTERNALPROJECT_INTERNAL_ARGUMENT_SEPARATOR" "URL" "https://github.com/libsdl-org/SDL/archive/refs/tags/preview-3.1.6.zip"
+                    SOURCE_DIR          "C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-src"
+                    BINARY_DIR          "C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

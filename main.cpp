@@ -2,6 +2,10 @@
 #include "scene-01-clear.h"
 #include "scene-02-triangle.h"
 #include "scene-03-triangle-vertex-buffer.h"
+#include "scene-04-triangle-cull-modes.h"
+#include "scene-06-triangle-indexed.h"
+#include "scene-07-texture-quad.h"
+#include "scene-08-texture-quad-moving.h"
 #include "time.h"
 #include "window.h"
 
@@ -18,7 +22,7 @@ int main(int argc, char **argv)
     Time time{};
     window.Init();
     renderer.Init(window);
-    auto scene = std::make_unique<Scene03TriangleVertexBuffer>();
+    auto scene = std::make_unique<Scene08TextureQuadMoving>();
     scene->Load(renderer);
     bool isRunning{true};
     while (isRunning)

@@ -35,6 +35,9 @@ CMAKE_ASM_MASM_FLAGS_RELEASE:STRING=
 //Flags used by the ASM_MASM compiler during RELWITHDEBINFO builds.
 CMAKE_ASM_MASM_FLAGS_RELWITHDEBINFO:STRING=
 
+//No help, variable specified on the command line.
+CMAKE_BUILD_TYPE:STRING=Debug
+
 //Semicolon separated list of supported configuration types, only
 // supports Debug, Release, MinSizeRel, and RelWithDebInfo, anything
 // else will be ignored.

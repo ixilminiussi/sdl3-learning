@@ -3,10 +3,10 @@
 # No other meaning or use of this file is supported.
 
 method=url
-command=/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/download-sdl3-populate.cmake;COMMAND;/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/verify-sdl3-populate.cmake;COMMAND;/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/extract-sdl3-populate.cmake
-source_dir=/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps/sdl3-src
-work_dir=/home/ixilminiussi/Desktop/learning/sdl3-learning/build/_deps
-url(s)=https://github.com/libsdl-org/SDL/archive/refs/tags/preview-3.1.6.tar.gz
+command=C:/Program Files/CMake/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/download-sdl3-populate.cmake;COMMAND;C:/Program Files/CMake/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/verify-sdl3-populate.cmake;COMMAND;C:/Program Files/CMake/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/extract-sdl3-populate.cmake
+source_dir=C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps/sdl3-src
+work_dir=C:/Users/ixil.miniussi/Documents/Unreal Projects/sdl3-learning/build/_deps
+url(s)=https://github.com/libsdl-org/SDL/archive/refs/tags/preview-3.1.6.zip
 hash=
       no_extract=
 
